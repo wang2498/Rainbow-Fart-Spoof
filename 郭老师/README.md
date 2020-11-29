@@ -1,0 +1,74 @@
+## 语音 (示例)
+
+- `function, () =>`
+  - 啊
+  - 啊啊啊
+  - 啊奥
+  - 啊梅西
+- `item, el`
+  - 苞米
+  - 冰糖葫芦
+  - 火龙果
+  - 毛桃
+- `console, clg`
+  - 喝水
+  - 啊奥
+  - 啊啊啊
+- `;`
+  - 喝水
+  - 啊奥
+  - 啊啊啊
+- `if`
+  - 猕猴桃
+  - 比巴伯不好吃
+- `()`
+  - 比巴伯不好吃
+- `true, ==, ===`
+  - 感觉不会再快乐 牛奶
+- `false`
+  - 乳酸菌
+  - 啊
+- `null, undefined, index`
+  - 香蕉
+- `useSate, useEffect, useMemo, useCallback`
+  - 猕猴桃
+  - 油炸鸡米花
+  - 火龙果
+- `import, export, this`
+  - 油炸鸡米花
+  - 成语
+  - 啊奥
+- `break, return false`
+  - 木糖醇
+  - 啊
+- `try`
+  - 蓝莓
+  - 啊
+- `catch`
+  - 理之
+- `['[', '{']`
+  - 蓝莓
+  - 啊梅西
+  - 啊
+  - 比巴伯不好吃
+- `,`
+  - 乳酸菌
+  - 啊梅西
+- `var, new, let, const`
+  - 猕猴桃
+  - 理之
+- `render(), return {`
+  - 啊奥
+  - 啊
+  - 啊啊啊
+  - 苞米
+- `props state length`
+  - 啊梅西
+  - 啊奥
+  - 啊
+  - 啊啊啊
+  - 苞米
+- `React, ReactDOM, Component`
+  - 乳酸菌
+  - 成语
+  - 啊
