@@ -1,7 +1,8 @@
 # Rainbow-Fart 恶搞 语音包
 
 [VSCode Rainbow-Fart](https://github.com/saekiraku/vscode-rainbow-fart)
-马保国、郭老师 语音包，目前只支持 react js 版本
+马保国 语音包，目前有 react+js 及 vue+js 两版
+郭老师 语音包 目前只支持 react js 版本
 
 ## 如何使用
 
